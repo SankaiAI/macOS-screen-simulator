@@ -36,5 +36,5 @@ yarn-error.log*
 .vscode/project.json
 .idea/
 
-# GitHub (optional, but requested in screenshot context)
-# .github/
+# GitHub
+.github/prompts/
