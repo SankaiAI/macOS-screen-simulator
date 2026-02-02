@@ -3,6 +3,7 @@
 Generate stunning, professional macOS-style mockups and screenshots in seconds. Specifically designed for **Windows users** who want to showcase their websites or apps with that premium Apple aesthetic without needing a Mac.
 
 ![MacOS Interface](public/interface.png)
+![MacOS Interface Alt](public/interface2.png)
 
 ## ✨ Features
 
